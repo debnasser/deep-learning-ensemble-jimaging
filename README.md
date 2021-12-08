@@ -14,6 +14,6 @@ In recent years, deep learning methods have outperformed previous state-of-the-a
 
  Authors: Débora N. Diniz, Mariana T. Rezende, Andrea G. C. Bianchi, Claudia M. Carneiro, Eduardo J. S. Luz, Gladston J. P. Moreira, Daniela M. Ushizima, Fátima N. S. de Medeiros, and Marcone J. F. Souza.
       
- Acess the full text: https://doi.org/
+ Acess the full text: https://doi.org/10.3390/jimaging7070111
  </tr>
 </table>
